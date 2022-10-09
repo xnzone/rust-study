@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "guess",
+    "variable",
+    "data_type",
+    "func",
+    "control",
+    "ownership",
+    "minigrep",
+    "websrv",
+]
